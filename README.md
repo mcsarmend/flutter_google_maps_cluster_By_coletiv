@@ -19,3 +19,4 @@ Also, don't forget to check the [Flutter Cache Manager](https://pub.dev/packages
 2 - Obtain the Google Maps Api key [here](https://developers.google.com/maps/documentation/android-sdk/get-api-key#get-the-api-key) and add it [here](https://github.com/coletiv/flutter_google_maps_clusters/blob/48a079466dbeeb1673bdcac38ac98cbe76fbd375/android/app/src/main/AndroidManifest.xml#L28) and [here](https://github.com/coletiv/flutter_google_maps_clusters/blob/48a079466dbeeb1673bdcac38ac98cbe76fbd375/ios/Runner/AppDelegate.swift#L12).
 
 3 - Run project and see the custom marker icons and cluster working with Google Maps.
+"# flutter_google_maps_cluster_By_coletiv" 
